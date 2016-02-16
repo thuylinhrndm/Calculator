@@ -1,0 +1,7 @@
+module Calculator
+{
+  interface Add
+  { 
+    long add(in long num1, in long num2);
+  };
+};
