@@ -1,3 +1,5 @@
+//the inheritance approach
+
 import Calculator.*;
 
 

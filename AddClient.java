@@ -72,7 +72,7 @@ public class AddClient
             int num2 = 9;
             
             int  result = addRef.add(num1,num2) ;
-            System.out.println("The result add 2 numbers is: " + result);
+            System.out.println("The result add 2 numbers is : " + result);
             
 
             } catch (Exception e) {
